@@ -5,7 +5,7 @@
     position: relative;
     min-height: 100vh; /* Garante que o header ocupa toda a altura da viewport */
     width: 100%; /* Garante que ocupa toda a largura */
-    background-image: url('img/background.png'); /* Substitua pelo caminho correto */
+    background-image: url('../img/background.png'); /* Substitua pelo caminho correto */
     background-size: cover; /* Ajusta a imagem para cobrir todo o espaço */
     background-position: center; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita repetição da imagem */
